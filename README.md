@@ -1,2 +1,1 @@
-# rdp-platform
-African Road Development Prioritization
+# African Road Development Prioritization
